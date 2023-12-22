@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Crée la liste des villes -->
-
+<string-array name="cities">
+    <item>chose your city :</item>
+    <item>safi</item>
+    <item>tanger</item>
+    <item>casa</item>
+    <item>oujda</item>
+</string-array>
 </resources>
